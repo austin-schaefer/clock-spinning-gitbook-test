@@ -1,0 +1,1 @@
+This is the website for the Clock Spinning podcast, a podcast I do with my brother where we review old Magic: the Gathering sets card by card for cube. Check it out at [clockspinning.com](https://clockspinning.com)!
